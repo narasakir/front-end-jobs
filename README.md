@@ -7,6 +7,7 @@ In general, the sites were developed:
 * Sass,
 * Bourbon or Compass (Mixin library for Sass),
 * jQuery,
+* Ajax,
 * PHP,
 * MySQL,
 * Frameworks (Bootstrap or FlexBoxGrid),
@@ -20,6 +21,11 @@ Performance Web: Cache HTTP, Sprites, minify js and css, images optimize.
 **CMS** 
 * Wordpress 
 * Joomlaa. 
+
+** MVC / SPA ** 
+* React (beginner);
+* Angular (beginner);
+
 
 ## List developed sites ##
 
@@ -56,4 +62,4 @@ Performance Web: Cache HTTP, Sprites, minify js and css, images optimize.
 
 
 
-* [Visit My website](http://narasaki.com.br/)
+* [Visit My website (http://narasaki.com.br/) ](http://narasaki.com.br/)
